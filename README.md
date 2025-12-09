@@ -1,1 +1,1 @@
-Runs in debian based linux servers. Takes the banned IP's from fail2ban service and applys them to the IPTABLES drop list so they are banned forever. 
+Runs in debian based linux servers. Takes the banned IP's from fail2ban service and applys them to the IPTABLES drop list so they are banned forever. Designed to be run with crontab, however often you deem fit. 
